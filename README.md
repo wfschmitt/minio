@@ -113,4 +113,4 @@ Minio Server comes with an embedded web based object browser. Point your web bro
 - [The Minio documentation website](https://docs.minio.io)
 
 ## **Contribute to Minio Project**
-Please follow Minio [Contributor's Guide](https://github.com/minio/minio/blob/master/CONTRIBUTING.md)
+**Please follow Minio** [Contributor's Guide](https://github.com/minio/minio/blob/master/CONTRIBUTING.md)
